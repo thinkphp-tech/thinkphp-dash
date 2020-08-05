@@ -1,2 +1,2 @@
 # thinkphp-dash
-A b/s dashboard for manage thinkphp projects
+A dashboard for manage projects using thinkphp v6.0 framework.
