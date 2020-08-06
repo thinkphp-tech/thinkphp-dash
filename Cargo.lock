@@ -215,7 +215,7 @@ dependencies = [
 [[package]]
 name = "actix-web"
 version = "3.0.0-beta.1"
-source = "git+https://github.com/actix/actix-web#cf1c8abe62d1d94e86c6a62ff8aa9fd6f23bc88a"
+source = "git+https://gitee.com/bison-fork/actix-web#cf1c8abe62d1d94e86c6a62ff8aa9fd6f23bc88a"
 dependencies = [
  "actix-codec",
  "actix-http",
